@@ -6,5 +6,6 @@ subtitle: "Beyond tech, I indulge in the following:"
 ---
 
 - Basketball
+- Hiking
 - Running
 - Piano
